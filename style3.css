@@ -1,0 +1,136 @@
+*{
+    padding:0 ;
+    margin: 0;
+
+}
+body{
+    text-align: justify;
+    background-color: #000;
+}
+.parent{
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 910px;
+}
+.top{
+    background-image: url("images/bg1.jpg");
+    background-repeat: no-repeat;
+    height: 115px;
+    border-bottom-color:#CCCCCC;
+    border-bottom-style: solid;
+    border-bottom-width: 2px; 
+
+}
+/*-------------------------*/
+/*social media*/
+.top div{
+     float: right;
+     margin-top: 25px;
+
+}
+/*-------------------------*/
+/*bar*/
+a{  padding: 10px;
+    color:#CCCCCC;
+    text-decoration: none;
+}
+a:hover{
+    background-color:#329AFF;
+}
+.links{
+ margin: 20px;   
+}
+
+/*-------------------------*/
+
+.rest{
+    background-color:#CCCCCC ;
+    padding: 5px;  
+}
+
+h3{
+    color: #0E9CF9;
+    padding-left: 10px;
+    padding-bottom: 10px;
+     margin-top: 15px; 
+    border-bottom:1px solid #5B5C60; 
+   
+    
+}
+    
+.welcome{
+    float: left;
+    width: 630px; 
+    
+}
+.news{
+    float: right;
+    width: 250px;
+}
+.divclear{
+    clear: both;
+}
+
+.news>p{
+    font-size: 14px;
+    padding-top: 20px;
+    /*font-family: ;*/
+}
+.welcome>p{
+    padding-top: 20px;
+    margin-left: 10px;
+
+}
+
+.htxt{
+    color: #FC6E30 ;
+}
+.date{
+    color:#329AFF ;
+}
+/************************/
+ul{
+    margin-top: 15px;
+    margin-left: 50px;
+    
+}
+.imgcar img{
+    margin-top: 10px;
+    margin-left: 20px;
+    padding: 2px;
+    border: 2px solid #DEDEDE;
+}
+#cpright{
+
+    text-align: center;
+    font-size: 14px;
+    margin-top: 50px;
+    padding: 30px;
+    border-top:1px solid #5B5C60; 
+}
+
+
+.c{
+
+    float: left;
+    margin-right: 37px;
+    margin-top: 30px;
+   
+}
+#cars{
+    padding-left: 90px;
+    margin-bottom: 50px;
+    
+}
+.b{
+    text-align: center;
+        background-color: blue;
+}
+
+.b img{
+    
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
